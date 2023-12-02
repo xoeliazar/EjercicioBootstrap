@@ -1,0 +1,39 @@
+.logo {
+  width: 86px;
+  height: 25px;
+}
+nav {
+  background-color: #14dcb4;
+}
+
+.fontSize1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: #212529;
+}
+.fontsize2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: #28a745;
+}
+
+.location {
+  color: #707070;
+}
+section {
+  background-color: #14dcb4;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+}
+footer {
+  background-color: #d9cae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #707070;
+  height: 70px;
+}
